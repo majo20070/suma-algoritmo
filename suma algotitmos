@@ -1,0 +1,11 @@
+suma de algoritmos
+escribir("numero1")
+escribir("numero2")
+escribir("resultado")
+leer numero1
+imprimir("digite vlor 1")
+leer numero2
+imprimir("digite valor 2")
+resultado == numero1 + numero2
+imprimir("el resultado es") resultado
+Finalgoritmo
